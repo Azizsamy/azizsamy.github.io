@@ -16,14 +16,14 @@
     }
     header {
       background: #fff;
-      padding: 4rem;
+      padding: 2rem;
       text-align: center;
       box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
     header img {
       width: 150px;
       height: 150px;
-      border-radius: 50%;
+      border-radius: 100%;
       object-fit: cover;
       border: 3px solid #333;
     }
